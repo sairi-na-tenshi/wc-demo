@@ -1,0 +1,11 @@
+std\:cpanel-side {
+	display: table-cell;
+	margin: 0 0 0 10px;
+	margin: 3px 0 0 13px\9;
+	padding: 10px 10px 10px 0;
+	background: #ccc;
+	vertical-align: top;
+	$padding-bottom: 32010px;
+	$margin-bottom: -32000px;
+	$float: left;
+}

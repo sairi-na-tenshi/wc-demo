@@ -1,0 +1,12 @@
+std\:cpanel-content {
+	position: relative;
+	top: 1px;
+	top: 0 \9;
+	left: 1px;
+	width: 100%;
+	height: 100%;
+	display: table;
+	$display: block;
+	$overflow: hidden;
+	zoom: 1;
+}

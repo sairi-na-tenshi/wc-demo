@@ -1,0 +1,25 @@
+.std-cpanel-shape {
+	position: absolute;
+	width: 100%;
+    height: 100%;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	z-index: -1;
+
+   	-moz-border-radius: 10px;
+	border-radius: 10px;
+
+    border: 1px solid #bbb;
+    border: none\9;
+
+	background: url( '../i-cpanel/i-cpanel-shape_bg.svg' ) #fff;
+	background: -moz-linear-gradient( left, #ccc, #fff );
+	background: -webkit-gradient( linear, left top, right top, from( #ccc ), to( #fff ) );
+    background: none\9; /* ie8- */
+
+	-webkit-box-shadow: 2px 2px 4px #ccc;
+	-moz-box-shadow: 2px 2px 4px #ccc;
+	box-shadow: 2px 2px 4px #ccc;
+}

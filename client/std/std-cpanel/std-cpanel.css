@@ -1,0 +1,19 @@
+std\:cpanel {
+	display: block;
+	margin: auto;
+	width: 100%\9;
+	max-width: 1100px;
+    text-align: left;
+    position: relative;
+    $overflow: hidden;
+	z-index: 0;
+
+    padding: 0 10px 0;
+    padding-top: 1px \9;
+    $apadding: 0;
+
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+
+}

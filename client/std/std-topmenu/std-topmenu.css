@@ -1,0 +1,24 @@
+std\:topmenu {
+	display: block;
+	background: #eee;
+	color: black;
+	text-align: center;
+	border-bottom: 1px solid #ddd;
+	line-height: 1;
+	font-size: 15px;
+	font-family: 'Tahoma', sans-serif;
+}
+
+std\:topmenu a {
+	display: inline-block;
+	zoom: 1;
+	padding: 8px;
+}
+
+std\:topmenu a.target\=true {
+	font-weight: bold;
+}
+
+std\:topmenu a:hover {
+	background: white;
+}
